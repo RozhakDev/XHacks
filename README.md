@@ -35,8 +35,8 @@ XHacks saat ini dalam versi beta. Kami menghargai setiap masukan atau laporan bu
 XHacks dirancang untuk berjalan secara eksklusif di aplikasi Termux pada perangkat 64-bit, memastikan performa dan keamanan optimal. Alat ini hanya mendukung pengguna di Indonesia untuk menjaga fokus layanan dalam lingkup tertentu.
 
 ## 🛠️ Troubleshooting
-- 📶 **IP Blocking atau Limiting**: Menggunakan API X yang membatasi sekitar 1000 permintaan dalam 15 menit; disarankan untuk sering mengganti alamat IP, misalnya dengan mode pesawat.
 - 🔒 **Akun Terbatas**: Data tidak dapat dikumpulkan dari akun dengan privasi tinggi atau verifikasi khusus.
+- 📶 **IP Blocking atau Limiting**: Menggunakan API X yang membatasi sekitar 1000 permintaan dalam 15 menit; disarankan untuk sering mengganti alamat IP, misalnya dengan mode pesawat.
 - 🕵️‍♂️ **Keberhasilan Brute Force**: Tingkat keberhasilan bergantung pada daftar kata sandi dan target yang dipilih.
 
 ## 📜 Lisensi
