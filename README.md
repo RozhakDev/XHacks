@@ -35,11 +35,11 @@ XHacks saat ini dalam versi beta. Kami menghargai setiap masukan atau laporan bu
 XHacks dirancang untuk berjalan secara eksklusif di aplikasi Termux pada perangkat 64-bit, memastikan performa dan keamanan optimal. Alat ini hanya mendukung pengguna di Indonesia untuk menjaga fokus layanan dalam lingkup tertentu.
 
 ## 🛠️ Troubleshooting
-📶 **Pembatasan IP**: XHacks menggunakan API X yang membatasi sekitar 1000 permintaan dalam 15 menit. Untuk menghindari pemblokiran, disarankan agar pengguna sering mengganti alamat IP, misalnya dengan menggunakan mode pesawat. Hal ini penting untuk menjaga kelancaran akses dan mencegah gangguan saat menggunakan alat.
+📶 **Pembatasan IP**: XHacks memanfaatkan API X yang membatasi sekitar 1000 permintaan setiap 15 menit. Untuk mencegah pemblokiran, pengguna disarankan untuk sering mengganti alamat IP, seperti dengan mengaktifkan mode pesawat. Ini penting untuk memastikan akses yang lancar dan menghindari gangguan saat menggunakan alat.
 
-🔒 **Akun Terbatas**: Pengumpulan data tidak dapat dilakukan pada akun dengan pengaturan privasi tinggi atau yang telah terverifikasi secara khusus. Ini berarti bahwa pengguna harus memperhatikan jenis akun yang menjadi target, karena tidak semua akun dapat diakses untuk pengumpulan data.
+🔒 **Akun Terbatas**: Pengumpulan data tidak dapat dilakukan pada akun dengan pengaturan privasi tinggi atau yang telah terverifikasi. Oleh karena itu, pengguna perlu memperhatikan jenis akun yang menjadi target, karena tidak semua akun dapat diakses untuk pengumpulan data.
 
-🕵️‍♂️ **Keberhasilan Brute Force**: Tingkat keberhasilan dalam melakukan brute force sangat dipengaruhi oleh daftar kata sandi dan target yang dipilih. Oleh karena itu, pemilihan kata sandi yang tepat dan pemahaman tentang target sangat penting untuk meningkatkan peluang keberhasilan dalam proses ini.
+🕵️‍♂️ **Keberhasilan Brute Force**: Tingkat keberhasilan brute force dipengaruhi oleh daftar kata sandi dan target yang dipilih. Pemilihan kata sandi yang tepat dan pemahaman tentang target sangat penting untuk meningkatkan peluang keberhasilan.
 
 ## 📜 Lisensi
 XHacks adalah perangkat lunak yang tidak open-source. Semua hak pengguna hanya untuk mengakses, tidak untuk memodifikasi atau mendistribusikan ulang.
