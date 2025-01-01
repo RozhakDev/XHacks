@@ -6,11 +6,11 @@
 > Disclaimer: Penggunaan alat ini sepenuhnya tanggung jawab pengguna. XHacks dibuat untuk edukasi dan meningkatkan keamanan akun.
 
 ## ⚡ Fitur Utama
-- 🔒 **Login dengan Authorization X**: Menggunakan token untuk akses aman.
-- 🌟 **Akses Premium dan Trial**: Coba fitur premium sebelum membeli.
-- 📊 **Pengumpulan Data**: Ambil data pengguna, pengikut, dan daftar yang diikuti.
-- 📁 **Ekstraksi Data ke File**: Ekspor data untuk analisis lebih lanjut.
-- 🛠️ **Brute Force Akun X**: Lakukan brute force dengan wordlist untuk hasil optimal.
+- 🔒 **Login dengan Authorization X**: Sistem login yang mengandalkan token Authorization X (Bearer Token) untuk memastikan akses hanya bagi pengguna yang sah dan terautentikasi.
+- 🌟 **Akses Premium dan Trial**: Pengguna dapat mencoba akses premium dalam mode trial sebelum memutuskan untuk membeli, dengan fitur tambahan yang menjamin keamanan dan kenyamanan.
+- 📊 **Pengumpulan Data**: Memungkinkan pengguna untuk mengumpulkan data penting seperti username, nama, jumlah pengikut, dan daftar yang diikuti dari target yang ditentukan.
+- 📁 **Ekstraksi Data ke File**: Data yang telah dikumpulkan dapat diekspor ke dalam format file yang mudah dianalisis dan diproses lebih lanjut.
+- 🛠️ **Brute Force Akun X**: Setelah data tersedia, pengguna dapat melakukan brute force dengan memilih wordlist yang sesuai untuk meningkatkan peluang keberhasilan.
 
 ## 🚀 Instalasi
 Termux - [Beta]()
