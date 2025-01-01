@@ -3,14 +3,14 @@
 
 🚀 **XHacks** adalah sebuah tool pentesting yang dikembangkan khusus untuk menguji keamanan akun X melalui metode brute force dengan pendekatan yang inovatif dan aman.
 
-> Disclaimer: Kami tidak bertanggung jawab atas penyalahgunaan alat ini. Tujuan dari XHacks adalah untuk mengedukasi dan membantu pengguna dalam menjaga keamanan akun mereka.
+> Disclaimer: Penggunaan alat ini sepenuhnya tanggung jawab pengguna. XHacks dibuat untuk edukasi dan meningkatkan keamanan akun.
 
 ## ⚡ Fitur Utama
-- 🔒 **Login dengan Authorization X**: Sistem login ini menggunakan token Authorization X (Bearer Token) untuk memastikan bahwa hanya pengguna yang sah dan terautentikasi dapat mengakses fitur-fitur dalam XHacks.
-- 🌟 **Akses Premium dan Trial**: Pengguna dapat mencoba mode trial sebelum memutuskan untuk membeli akses premium. Fitur premium dirancang untuk keamanan dan kenyamanan lebih.
-- 📊 **Pengumpulan Data**: Memungkinkan Anda untuk mengumpulkan data seperti username, nama, jumlah pengikut, dan daftar yang diikuti oleh target. Proses ini mendukung pengumpulan data dari pengikut dan daftar mengikuti.
-- 📁 **Ekstraksi Data ke File**: Data yang berhasil dikumpulkan akan diekspor ke dalam file untuk mempermudah analisis dan pengolahan lebih lanjut.
-- 🛠️ **Brute Force Akun X**: Setelah data tersedia, pengguna dapat melakukan brute force dengan memilih wordlist yang sesuai untuk memaksimalkan keberhasilan.
+- 🔒 **Login dengan Authorization X**: Menggunakan token untuk akses aman.
+- 🌟 **Akses Premium dan Trial**: Coba fitur premium sebelum membeli.
+- 📊 **Pengumpulan Data**: Ambil data pengguna, pengikut, dan daftar yang diikuti.
+- 📁 **Ekstraksi Data ke File**: Ekspor data untuk analisis lebih lanjut.
+- 🛠️ **Brute Force Akun X**: Lakukan brute force dengan wordlist untuk hasil optimal.
 
 ## 🚀 Instalasi
 Termux - [Beta]()
