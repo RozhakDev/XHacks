@@ -29,7 +29,7 @@ XHacks saat ini dalam versi beta. Kami menghargai setiap masukan atau laporan bu
 > Buka Issue: [GitHub Issues](https://github.com/RozhakXD/XHacks/issues)
 
 ## 🖼️ Tangkapan Layar
-![XHacks Images]()
+![Images](https://github.com/user-attachments/assets/a22230a6-0e26-452e-b03a-383582d7bbb6)
 
 ## 🔐 Pembatasan
 XHacks dirancang untuk berjalan secara eksklusif di aplikasi Termux pada perangkat 64-bit, memastikan performa dan keamanan optimal. Alat ini hanya mendukung pengguna di Indonesia untuk menjaga fokus layanan dalam lingkup tertentu.
