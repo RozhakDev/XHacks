@@ -2,3 +2,4 @@ requests
 shutup
 rich
 certifi
+Faker
